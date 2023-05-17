@@ -1,0 +1,11 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Title > should display the title 1`] = `
+<body>
+  <div>
+    <h2>
+      Title Example
+    </h2>
+  </div>
+</body>
+`;

@@ -1,0 +1,25 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Breadcrumb > render element 1`] = `
+<body>
+  <div>
+    <div
+      class="breadcrumb"
+    >
+      foo
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Breadcrumb > render start page 1`] = `
+<body>
+  <div>
+    <div
+      class="breadcrumb"
+    >
+      start page
+    </div>
+  </div>
+</body>
+`;

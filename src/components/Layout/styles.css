@@ -1,0 +1,12 @@
+.navbar {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.navbar ul {
+  display: flex;
+  gap: 16px;
+}
+.navbar li {
+  display: block;
+}

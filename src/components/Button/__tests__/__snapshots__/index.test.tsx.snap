@@ -1,0 +1,27 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Button > render disabled Button 1`] = `
+<body>
+  <div>
+    <div
+      class="btn disabled"
+      data-testid="btn-test"
+    >
+      Button Example
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Button > render element 1`] = `
+<body>
+  <div>
+    <div
+      class="btn"
+      data-testid="btn-test"
+    >
+      Button Example
+    </div>
+  </div>
+</body>
+`;
